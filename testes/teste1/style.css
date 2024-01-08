@@ -1,0 +1,15 @@
+@charset "UTF8";
+ 
+body{
+    background-image: linear-gradient(to right,#0455BF,#034AA6);
+}
+
+  main{
+        background-color: aliceblue;
+        border-radius: 8%;
+        width: 600px;
+        margin: auto;
+        padding:10px ;
+        box-shadow: 5px 5px 5px black;
+}
+ 
